@@ -1,22 +1,21 @@
-import logo from './logo.svg';
+/**import logo from './logo.svg';*/
 import './App.css';
+/** */
+import { Switch } from '@mui/material';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+<div className="SwitchBoard">
+<div className="SwitchRow"> <div className="col6">CHEQ</div> <Switch color="success" defaultChecked /> </div>
+<div className="SwitchRow"> <div className="col6">CHM</div> <Switch color="success" defaultChecked /> </div>
+<div className="SwitchRow"> <div className="col6">Harvesting</div>  <Switch color="success" defaultChecked /> </div>
+<div className="SwitchRow"> <div className="col6">Topography</div>  <Switch color="success" defaultChecked /> </div>
+<div className="SwitchRow"> <div className="col6">DFM</div>  <Switch color="success" defaultChecked /> </div>
+<div className="SwitchRow"> <div className="col6">LCM</div> <Switch color="success" defaultChecked /> </div>
+<div className="SwitchRow"> <div className="col6">INTViewer</div> <Switch color="success" defaultChecked /> </div>
+</div>
       </header>
     </div>
   );
