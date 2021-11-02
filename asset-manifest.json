@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/CHMToggle/static/css/main.17ccc6c9.chunk.css",
+    "main.js": "/CHMToggle/static/js/main.80fb0420.chunk.js",
+    "main.js.map": "/CHMToggle/static/js/main.80fb0420.chunk.js.map",
+    "runtime-main.js": "/CHMToggle/static/js/runtime-main.b5c66067.js",
+    "runtime-main.js.map": "/CHMToggle/static/js/runtime-main.b5c66067.js.map",
+    "static/js/2.b14e4ca8.chunk.js": "/CHMToggle/static/js/2.b14e4ca8.chunk.js",
+    "static/js/2.b14e4ca8.chunk.js.map": "/CHMToggle/static/js/2.b14e4ca8.chunk.js.map",
+    "static/js/3.06dd95dc.chunk.js": "/CHMToggle/static/js/3.06dd95dc.chunk.js",
+    "static/js/3.06dd95dc.chunk.js.map": "/CHMToggle/static/js/3.06dd95dc.chunk.js.map",
+    "index.html": "/CHMToggle/index.html",
+    "static/css/main.17ccc6c9.chunk.css.map": "/CHMToggle/static/css/main.17ccc6c9.chunk.css.map",
+    "static/js/2.b14e4ca8.chunk.js.LICENSE.txt": "/CHMToggle/static/js/2.b14e4ca8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b5c66067.js",
+    "static/js/2.b14e4ca8.chunk.js",
+    "static/css/main.17ccc6c9.chunk.css",
+    "static/js/main.80fb0420.chunk.js"
+  ]
+}
